@@ -15,3 +15,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Minimal Circle Covering All Given Circles](welzl.ipynb)
 
 [Calculate 24](calc_24.ipynb)
+
+[Python cin & cout](cin_cout.ipynb)
