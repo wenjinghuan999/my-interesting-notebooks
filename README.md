@@ -13,3 +13,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Expected Area of Region on Random Binary Image](binary_image_area.ipynb)
 
 [Minimal Circle Covering All Given Circles](welzl.ipynb)
+
+[Calculate 24](calc_24.ipynb)
