@@ -17,3 +17,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Calculate 24](calc_24.ipynb)
 
 [Python cin & cout](cin_cout.ipynb)
+
+[Tossing a Coin](toss_coin.ipynb)
