@@ -21,3 +21,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Tossing a Coin](toss_coin.ipynb)
 
 [Hilbert Sort](hilbert_sort.ipynb)
+
+[Distinct Pairwise Sum Sequence](distinct_pairwise_sum.ipynb)
