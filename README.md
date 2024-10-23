@@ -23,3 +23,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Hilbert Sort](hilbert_sort.ipynb)
 
 [Distinct Pairwise Sum Sequence](distinct_pairwise_sum.ipynb)
+
+[Infinite Expectation](infinite_expectation.ipynb)
