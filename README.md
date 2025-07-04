@@ -25,3 +25,5 @@ My interesting notebooks, about math, python code snippets, etc.
 [Distinct Pairwise Sum Sequence](distinct_pairwise_sum.ipynb)
 
 [Infinite Expectation](infinite_expectation.ipynb)
+
+[鬼谷子问题](guiguzi.ipynb)
